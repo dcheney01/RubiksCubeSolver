@@ -1,5 +1,6 @@
 # Rubik's Cube Solving Robot
 
+<<<<<<< HEAD
 A high-performance Rubik's Cube solving robot combining advanced algorithms, computer vision, and precision mechanical control to achieve competitive solving times.
 
 ## Performance Achievements
@@ -34,3 +35,12 @@ A high-performance Rubik's Cube solving robot combining advanced algorithms, com
 - `RubiksCubeGUIVideo/` - Demonstration videos and GUI components
 
 This project showcases the intersection of algorithms, robotics, and engineering to solve one of the world's most famous puzzles at competitive speeds.
+=======
+## Overview
+
+A Rubik's Cube-solving robot project combining software and hardware components for efficient cube-solving performance.
+
+- **Achievements:**
+  - Achieved 7.82s solve on hardware.
+  - [Video Demo](https://youtu.be/ljCj2J3jsT0).
+>>>>>>> 97cb337ca0f1169b700472c0774a3cd01c1c67b8
